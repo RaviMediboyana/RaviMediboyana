@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaviMediboyana
 - 👀 I’m interested in Data Science & Machine Learning.
-- 🌱 I’m currently in doing My M.Tech(Modeling & Simulation)
+- 🌱 I’m currently doing My M.Tech in Modeling & Simulation From Department of Scientific Computing Modeling & Simulation,SPPU
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me at medravi13@gmail.com
 <!---
